@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/1 - 야구 게임 f2ecee0450c54c5eb60619f57c7dfb44.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-24-added-latex-support.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-multi-author-support.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/우테코 1차 과정 b2d8e464b4874ce98af45cc070009fe7.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/우아한테크코스.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2 - 레이싱 카 61c658918a5b40cd9ff5e72a5087ad0f.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +72,8 @@
       <recent name="$PROJECT_DIR$/categories" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/posts/wuatechcourse" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/img/posts/wuatechcourse" />
       <recent name="$PROJECT_DIR$/temp" />
     </key>
   </component>
