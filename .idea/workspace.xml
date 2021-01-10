@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_authors/xplor4r.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/Dani.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/authors/Dani.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/Dani.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/Dani.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610196110888</updated>
       <workItem from="1610196113395" duration="5106000" />
-      <workItem from="1610252086552" duration="3156000" />
+      <workItem from="1610252086552" duration="3508000" />
     </task>
     <servers />
   </component>
