@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 지킬
-permalink: /blog/categories/jekyll/
+title: 우아한테크코스
+permalink: /blog/categories/wua-techcourse/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
