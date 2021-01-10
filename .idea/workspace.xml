@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2 - 레이싱 카 61c658918a5b40cd9ff5e72a5087ad0f.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/authors/Dani.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/authors/Dani.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +88,7 @@
       <updated>1610196110888</updated>
       <workItem from="1610196113395" duration="5106000" />
       <workItem from="1610252086552" duration="3508000" />
+      <workItem from="1610266450743" duration="738000" />
     </task>
     <servers />
   </component>
