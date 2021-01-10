@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: 다니
+subtitle: 매일 블로그
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://qhals321.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -13,26 +13,26 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+#    - text: Gallery
+#      url: /gallery
+#    - text: Shop
+#      url : /shop
+#    - text: Contact
+#      url : /contact
+#    - text: Styleguide
+#      url: /styleguide
+#    - text: Get Started
+#      url: /get-started
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author: 다니
+author_bio: 많은 것을 배우고 나누고싶은 사람
+author_email: "bomdani9302@gmail.com"
+author_location: Korea
+author_website_url: "https://www.notion.so/Bom-s-life-1d95349d8bc94308855311cf9db1a872"
+typewrite-text: 기록하는 습관
 
 # Experiences
 author_work_experiences:
