@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="" />
+    <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/1 - 야구 게임 f2ecee0450c54c5eb60619f57c7dfb44.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-24-added-latex-support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-10-25-multi-author-support.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/우테코 1차 과정 b2d8e464b4874ce98af45cc070009fe7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/우아한테크코스.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
