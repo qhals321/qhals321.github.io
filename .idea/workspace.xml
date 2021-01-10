@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog_newsletter.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/blog_newsletter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/xplor4r.md" beforeDir="false" afterPath="$PROJECT_DIR$/_authors/Dani.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610196110888</updated>
       <workItem from="1610196113395" duration="5106000" />
-      <workItem from="1610252086552" duration="2054000" />
+      <workItem from="1610252086552" duration="3156000" />
     </task>
     <servers />
   </component>
@@ -98,9 +96,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup" timestamp="1610234769623">
+    <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup" timestamp="1610254105340">
       <screen x="-1920" y="-107" width="1920" height="1080" />
     </state>
-    <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-107.1920.1080@-1920.-107.1920.1080" timestamp="1610234769623" />
+    <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-107.1920.1080@-1920.-107.1920.1080" timestamp="1610254105340" />
   </component>
 </project>
