@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="" />
+    <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_includes/github_fork_button.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/github_fork_button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/github_star_button.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/github_star_button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610196110888</updated>
       <workItem from="1610196113395" duration="5106000" />
-      <workItem from="1610252086552" duration="552000" />
+      <workItem from="1610252086552" duration="879000" />
     </task>
     <servers />
   </component>
