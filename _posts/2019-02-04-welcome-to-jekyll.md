@@ -1,20 +1,16 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
-category: jekyll
-thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
+title:  "우테코 1차 과정"
+summary: "우아한테크코스 1차 합격 후기 🤗"
+author: Dani
+date: '2021-01-10 14:55:23 +0530'
+category: 우아한 테크코스
+thumbnail: /assets/img/posts/techcourse.jpg
+keywords: 우아한 테크코스, 우형, 우아한 형제들, 배달의 민족, 백앤드, 자바, 1차
+permalink: /blog/wua-1/
 usemathjax: true
 ---
-# 우테코 1차 과정
 
-## 우아한테크코스 1차 합격 후기 🤗
-
----
 
 금일 3 시에 드디어 1차 합격 여부가 발표 되었다. 이렇게 긴장하며 기다려 본 경험은 손 꼽았다.
 
