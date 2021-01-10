@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/Untitled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/Untitled1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/Untitled2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-23-netlify-cms-created-this-article.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-23-netlify-cms-created-this-article.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-10-프리코스-1차-합격-후기.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-10-프리코스-1차-합격-후기.md" afterDir="false" />
-    </list>
+    <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
