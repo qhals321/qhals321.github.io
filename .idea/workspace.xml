@@ -20,7 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map/Untitled9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/wua-tech/2021-01-11-프리코스-2차-지하철노선도.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/wua-tech/2021-01-11-프리코스-2차-지하철노선도.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +64,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/categories" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,12 +79,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img/authors" />
+      <recent name="$PROJECT_DIR$/assets/img/posts/wuatechcourse/tran-map" />
+      <recent name="$PROJECT_DIR$/_posts/wua-tech" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/img/authors" />
       <recent name="$PROJECT_DIR$/assets/img/posts/wuatechcourse" />
-      <recent name="$PROJECT_DIR$/temp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/categories" />
     </key>
   </component>
@@ -89,7 +102,7 @@
       <updated>1610196110888</updated>
       <workItem from="1610196113395" duration="5106000" />
       <workItem from="1610252086552" duration="3508000" />
-      <workItem from="1610266450743" duration="1373000" />
+      <workItem from="1610266450743" duration="1818000" />
     </task>
     <servers />
   </component>
