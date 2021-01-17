@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 자바 기본
+title: 프로그래밍
 permalink: /blog/categories/programming-etc/
 ---
 
