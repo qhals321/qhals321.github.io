@@ -53,7 +53,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/categories" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/book-review" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -68,6 +68,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/book-review" />
       <recent name="$PROJECT_DIR$/categories" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
@@ -92,7 +93,7 @@
       <workItem from="1610196113395" duration="5106000" />
       <workItem from="1610252086552" duration="3508000" />
       <workItem from="1610266450743" duration="1818000" />
-      <workItem from="1610370623491" duration="7654000" />
+      <workItem from="1610370623491" duration="8417000" />
     </task>
     <servers />
   </component>
