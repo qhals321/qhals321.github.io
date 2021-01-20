@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/http/2021-01-19-인터넷-네트워크.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/book-review" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/categories" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,16 +68,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/book-review" />
       <recent name="$PROJECT_DIR$/categories" />
+      <recent name="$PROJECT_DIR$/_posts/book-review" />
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/posts/http" />
       <recent name="$PROJECT_DIR$/_posts/http" />
       <recent name="$PROJECT_DIR$/_posts/programming-etc" />
       <recent name="$PROJECT_DIR$/_posts/java-basic" />
-      <recent name="$PROJECT_DIR$/assets/img/posts/java-basic-img" />
-      <recent name="$PROJECT_DIR$/assets/img/posts/wuatechcourse/final-test" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -94,7 +93,7 @@
       <workItem from="1610196113395" duration="5106000" />
       <workItem from="1610252086552" duration="3508000" />
       <workItem from="1610266450743" duration="1818000" />
-      <workItem from="1610370623491" duration="8935000" />
+      <workItem from="1610370623491" duration="9782000" />
     </task>
     <servers />
   </component>
