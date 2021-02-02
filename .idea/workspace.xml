@@ -20,7 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,17 +82,17 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/posts/first-project" />
+      <recent name="$PROJECT_DIR$/assets/img/posts" />
+      <recent name="$PROJECT_DIR$/_posts/programming-etc" />
+      <recent name="$PROJECT_DIR$/_posts/book-review" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/categories" />
       <recent name="$PROJECT_DIR$/_posts/book-review" />
       <recent name="$PROJECT_DIR$/_posts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/book-review" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/assets/img/posts/http" />
-      <recent name="$PROJECT_DIR$/_posts/http" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -94,7 +108,8 @@
       <workItem from="1610196113395" duration="5106000" />
       <workItem from="1610252086552" duration="3508000" />
       <workItem from="1610266450743" duration="1818000" />
-      <workItem from="1610370623491" duration="25773000" />
+      <workItem from="1610370623491" duration="27168000" />
+      <workItem from="1612254729736" duration="591000" />
     </task>
     <servers />
   </component>
@@ -114,6 +129,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="430" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612255218375">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="430" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-66.1920.1057@0.23.1440.877" timestamp="1612255218375" />
     <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup" timestamp="1610254105340">
       <screen x="-1920" y="-107" width="1920" height="1080" />
     </state>
