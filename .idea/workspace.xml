@@ -20,23 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e79a3f-ae7a-4a04-9752-9c7b9bed172e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/posts/first-project/image9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/programming-etc/2021-01-25-첫번쨰_프로젝트.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/programming-etc/2021-01-25-첫번쨰_프로젝트.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +32,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -96,6 +88,7 @@
       <recent name="$PROJECT_DIR$/_posts" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -110,12 +103,15 @@
       <workItem from="1610252086552" duration="3508000" />
       <workItem from="1610266450743" duration="1818000" />
       <workItem from="1610370623491" duration="27168000" />
-      <workItem from="1612254729736" duration="1008000" />
+      <workItem from="1612254729736" duration="1696000" />
+      <workItem from="1612311078793" duration="179000" />
+      <workItem from="1612311426852" duration="43000" />
+      <workItem from="1612311485546" duration="432000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -128,15 +124,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="430" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612255218375">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="430" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.-66.1920.1057@0.23.1440.877" timestamp="1612255218375" />
-    <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup" timestamp="1610254105340">
-      <screen x="-1920" y="-107" width="1920" height="1080" />
-    </state>
-    <state x="-1295" y="134" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-107.1920.1080@-1920.-107.1920.1080" timestamp="1610254105340" />
   </component>
 </project>
